@@ -1,4 +1,4 @@
-import '../styles/global.sccs'
+import '../styles/global.scss'
 import Header from '../components/Header'
 import styles from '../styles/app.module.scss'
 import Player from '../components/Player'
